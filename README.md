@@ -29,3 +29,10 @@ This repository contains the sentiment analysis of IMDB movie reviews using Natu
 > A fully functional notebook showcasing NLP preprocessing, ML model implementation, and meaningful insights.
 >
 > 📌 The dataset used is publicly available and should be placed in the same folder as the notebook before execution.
+>
+> ---
+
+### 📁 Dataset Used:
+*Dataset Name:* IMDB 50K Movie Reviews  
+*Source:* [Kaggle – IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
+Please download and place IMDB Dataset.csv in the same folder as the notebook before running.
